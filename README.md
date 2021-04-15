@@ -1,3 +1,3 @@
 # Datavisualization for means over different classes and methods
 
-![alt text](https://github.com/[DennisVNilsson]/[datavizUAP]/blob/[branch]/image.jpg?raw=true)
+![Removal](https://github.com/DennisVNilsson/datavizUAP/images/Borttagning/borttagningCombined.png?raw=true)

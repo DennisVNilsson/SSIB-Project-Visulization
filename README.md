@@ -20,3 +20,11 @@ Mean of run time for sorting over the different classes and input data - random 
 
 
 ![Sort](https://raw.githubusercontent.com/DennisVNilsson/datavizUAP/main/images/Sortering/sorteringCombinedCorrected.png?raw=true)
+
+
+# Add in place 
+
+Mean of runtime for adding elements first for different classes: 
+
+
+![Place](https://raw.githubusercontent.com/DennisVNilsson/datavizUAP/main/images/Ins%C3%A4ttning/ins%C3%A4ttningCombinedFINAL2.png?raw=true)

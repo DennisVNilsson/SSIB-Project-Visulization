@@ -28,3 +28,12 @@ Mean of runtime for adding elements first for different classes:
 
 
 ![Place](https://raw.githubusercontent.com/DennisVNilsson/datavizUAP/main/images/Ins%C3%A4ttning/ins%C3%A4ttningCombinedFINAL2.png?raw=true)
+
+
+# Search 
+
+
+Mean of run time for searching by index in different classes and indexes: 
+
+
+![Searhc](https://raw.githubusercontent.com/DennisVNilsson/datavizUAP/main/images/S%C3%B6kning/searchFinalALl.png?raw=true)
